@@ -1,0 +1,28 @@
+ h1{ 
+    background-color: bisque;
+}
+.container{
+    width: 100;
+    height: 300;
+    background-color: aqua;
+}
+
+p{
+    background-color: chartreuse;
+}
+
+ul{
+    background-color: rgb(30, 20, 220);
+}
+li{
+    background-color: rgb(255, 0, 51);
+    margin-bottom:6px ;
+}
+button{
+    background-color: fuchsia;
+}
+.card{
+    border: 10px solid black;
+    margin: 10px;
+    padding : 10px;
+}
